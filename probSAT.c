@@ -550,7 +550,7 @@ static inline void printUsage() {
 	printf("--cb <double_value> : constant for break [default = k dependet]\n");
 	printf("\nFurther options:\n");
 	printf("--caching <0,1>, -c<0,1>  : use caching of break values \n");
-	printf("--runs <int_value>, -r<int_value>  : maximum number of tries \n");
+	printf("--runs <int_value>, -t<int_value>  : maximum number of tries \n");
 	printf("--maxflips <int_value> , -m<int_value>: number of flips per try \n");
 	printf("--printSolution, -a : output assignment\n");
 	printf("--help, -h : output this help\n");
